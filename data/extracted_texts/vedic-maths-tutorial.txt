@@ -1,0 +1,662 @@
+| 
+Site 
+| Educational 
+Material 
+| 
+Resources 
+| 
+Community 
+| Other 
+Material 
+| 
+Utilities 
+Vedic Maths Tutorial
+Vedic Maths is based on sixteen sutras or principles. These principles are general in nature and can be applied in many ways. In practice many 
+applications of the sutras may be learned and combined to solve actual problems. These tutorials will give examples of simple applications of 
+the sutras, to give a feel for how the Vedic Maths system works. These tutorials do not attempt to teach the systematic use of the sutras. 
+For more advanced applications and a more complete coverage of the basic uses of the sutras, we recommend you study one of the texts 
+available.
+N.B. The following tutorials are based on examples and exercises given in the book 'Fun with figures' by Kenneth Williams, which is a fun 
+introduction some of the applications of the sutras for children.
+If you are having problems using the tutorials then you could always read the instructions. 
+Tutorial 1
+Tutorial 2
+Tutorial 3
+Tutorial 4
+Tutorial 5
+Tutorial 6
+Tutorial 7
+Tutorial 1
+Use the formula ALL FROM 9 AND THE LAST FROM 10 to perform instant subtractions.
+G     For example 1000 - 357 = 643 
+We simply take each figure in 357 from 9 and the last figure from 10.
+So the answer is 1000 - 357 = 643
+And thats all there is to it!
+This always works for subtractions from numbers consisting of a 1 followed by noughts: 100; 1000; 10,000 etc.
+G     Similarly 10,000 - 1049 = 8951
+ 
+G     For 1000 - 83, in which we have more zeros than figures in the numbers being subtracted, we simply suppose 83 is 083. 
+So 1000 - 83 becomes 1000 - 083 = 917
+Vedic Maths Tutorial (interactive)
+http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp (1 of 12)2/10/2004 8:36:53 PM
+
+Vedic Maths Tutorial (interactive)
+Try some yourself:
+1) 1000 - 777 
+= 
+ 
+ 
+2) 1000 - 283
+= 
+ 
+ 
+3) 1000 - 505
+= 
+ 
+ 
+4) 10,000 - 2345 = 
+ 
+ 
+5) 10000 - 9876 = 
+ 
+ 
+6) 10,000 - 1101 = 
+ 
+ 
+7) 100 - 57
+= 
+ 
+ 
+8) 1000 - 57
+= 
+ 
+ 
+9) 10,000 - 321 = 
+ 
+ 
+10) 10,000 - 38 = 
+ 
+ 
+Total Correct = 
+ 
+ 
+Return to Index
+Tutorial 2
+Using VERTICALLY AND CROSSWISE you do not need to the multiplication tables beyond 5 X 5.
+G     Suppose you need 8 x 7 
+8 is 2 below 10 and 7 is 3 below 10.
+Think of it like this:
+The answer is 56.
+The diagram below shows how you get it.
+You subtract crosswise 8-3 or 7 - 2 to get 5,
+the first figure of the answer.
+And you multiply vertically: 2 x 3 to get 6,
+the last figure of the answer.
+That's all you do:
+http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp (2 of 12)2/10/2004 8:36:53 PM
+Reset Test
+
+Vedic Maths Tutorial (interactive)
+See how far the numbers are below 10, subtract one
+number's deficiency from the other number, and
+multiply the deficiencies together.
+G     7 x 6 = 42
+Here there is a carry: the 1 in the 12 goes over to make 3 into 4. 
+Multply These:
+1) 8
+    8 x
+ 
+ 
+2) 9
+    7 x
+ 
+ 
+3) 8
+    9 x
+ 
+ 
+4) 7
+    7 x
+ 
+ 
+5) 9
+    9 x 
+ 
+ 
+6) 6
+    6 x
+ 
+ 
+Total Correct = 
+ 
+ 
+Here's how to use VERTICALLY AND CROSSWISE for multiplying numbers close to 100.
+G     
+Suppose you want to multiply 88 by 98. 
+Not easy,you might think. But with
+VERTICALLY AND CROSSWISE you can give
+the answer immediately, using the same method
+as above.
+Both 88 and 98 are close to 100.
+88 is 12 below 100 and 98 is 2 below 100.
+You can imagine the sum set out like this:
+ 
+As before the 86 comes from
+subtracting crosswise: 88 - 2 = 86
+(or 98 - 12 = 86: you can subtract
+either way, you will always get
+the same answer).
+And the 24 in the answer is
+just 12 x 2: you multiply vertically.
+So 88 x 98 = 8624
+This is so easy it is just mental arithmetic.
+Try some: 
+http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp (3 of 12)2/10/2004 8:36:53 PM
+Reset Test
+
+Vedic Maths Tutorial (interactive)
+1) 87
+    98 x
+ 
+ 
+2) 88
+    97 x
+ 
+ 
+3) 77
+    98 x
+ 
+ 
+4) 93
+    96 x
+ 
+ 
+5) 94
+    92 x
+ 
+ 
+6) 64
+    99
+ 
+ 
+7) 98
+    97 x
+ 
+ 
+Total Correct = 
+ 
+ 
+Multiplying numbers just over 100.
+G     103 x 104 = 10712 
+The answer is in two parts: 107 and 12,
+107 is just 103 + 4 (or 104 + 3),
+and 12 is just 3 x 4.
+G     Similarly 107 x 106 = 11342 
+107 + 6 = 113 and 7 x 6 = 42
+Again, just for mental arithmetic
+Try a few:
+1) 102 x 107 = 
+ 
+ 
+1) 106 x 103 = 
+ 
+ 
+1) 104 x 104 = 
+ 
+ 
+4) 109 x 108 = 
+ 
+ 
+5) 101 x123 = 
+ 
+ 
+6) 103 x102 = 
+ 
+ 
+Total Correct = 
+ 
+ 
+Return to Index
+Tutorial 3
+The easy way to add and subtract fractions.
+Use VERTICALLY AND CROSSWISE to write the answer straight down!
+G     
+ 
+Multiply crosswise and add to get the top of the answer:
+2 x 5 = 10 and 1 x 3 = 3. Then 10 + 3 = 13.
+The bottom of the fraction is just 3 x 5 = 15.
+http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp (4 of 12)2/10/2004 8:36:53 PM
+Reset Test
+Reset Test
+
+Vedic Maths Tutorial (interactive)
+You multiply the bottom number together.
+So: 
+G     
+ 
+Subtracting is just as easy: multiply crosswise as before, but the subtract:
+G     
+ 
+Try a few:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Correct = 
+ 
+ 
+Return to Index 
+Tutorial 4
+A quick way to square numbers that end in 5 using the formula BY ONE MORE THAN THE ONE BEFORE.
+G     752 = 5625 
+752 means 75 x 75.
+The answer is in two parts: 56 and 25.
+The last part is always 25.
+The first part is the first number, 7, multiplied by the number "one more", which is 8:
+so 7 x 8 = 56
+http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp (5 of 12)2/10/2004 8:36:53 PM
+Reset Test
+
+Vedic Maths Tutorial (interactive)
+ 
+G     Similarly 852 = 7225 because 8 x 9 = 72. 
+Try these:
+1) 452 = 
+ 
+ 
+2) 652 = 
+ 
+ 
+3) 952 = 
+ 
+ 
+4) 352 = 
+ 
+5) 152 = 
+ 
+Total Correct = 
+ 
+ 
+Method for multiplying numbers where the first figures are the same and the last figures add up to 10.
+G     32 x 38 = 1216 
+Both numbers here start with 3 and the last
+figures (2 and 8) add up to 10.
+So we just multiply 3 by 4 (the next number up)
+to get 12 for the first part of the answer.
+And we multiply the last figures: 2 x 8 = 16 to
+get the last part of the answer.
+Diagrammatically:
+G     And 81 x 89 = 7209 
+We put 09 since we need two figures as in all the other examples.
+Practise some:
+1) 43 x 47 = 
+ 
+ 
+2) 24 x 26 = 
+ 
+ 
+3) 62 x 68 = 
+ 
+ 
+http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp (6 of 12)2/10/2004 8:36:54 PM
+Reset Test
+
+Vedic Maths Tutorial (interactive)
+4) 17 x 13 = 
+ 
+ 
+5) 59 x 51 = 
+ 
+ 
+6) 77 x 73 = 
+ 
+ 
+Total Correct = 
+ 
+ 
+Return to Index 
+Tutorial 5
+An elegant way of multiplying numbers using a simple pattern.
+G     21 x 23 = 483 
+This is normally called long multiplication but
+actually the answer can be written straight down
+using the VERTICALLY AND CROSSWISE
+formula.
+We first put, or imagine, 23 below 21:
+There are 3 steps:
+a) Multiply vertically on the left: 2 x 2 = 4.
+    This gives the first figure of the answer.
+b) Multiply crosswise and add: 2 x 3 + 1 x 2 = 8
+    This gives the middle figure.
+c) Multiply vertically on the right: 1 x 3 = 3
+    This gives the last figure of the answer.
+And thats all there is to it.
+G     Similarly 61 x 31 = 1891
+G     6 x 3 = 18; 6 x 1 + 1 x 3 = 9; 1 x 1 = 1 
+Try these, just write down the answer:
+http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp (7 of 12)2/10/2004 8:36:54 PM
+Reset Test
+
+Vedic Maths Tutorial (interactive)
+1) 14
+    21 x
+  
+ 
+ 
+2) 22
+    31 x
+  
+ 
+ 
+3) 21
+    31 x
+  
+ 
+ 
+4) 21
+    22 x
+  
+ 
+ 
+5) 32
+    21 x 
+  
+ 
+ 
+Total Correct = 
+ 
+ 
+Multiply any 2-figure numbers together by mere mental arithmetic!
+If you want 21 stamps at 26 pence each you can
+easily find the total price in your head.
+There were no carries in the method given above.
+However, there only involve one small extra step.
+G     21 x 26 = 546 
+The method is the same as above
+except that we get a 2-figure number, 14, in the
+middle step, so the 1 is carried over to the left
+(4 becomes 5).
+So 21 stamps cost £5.46.
+Practise a few:
+1) 21
+    47 x
+  
+ 
+ 
+2) 23
+    43 x
+  
+ 
+ 
+3) 32
+    53 x
+  
+ 
+ 
+4) 42
+    32 x
+  
+ 
+ 
+5) 71
+    72 x
+  
+ 
+ 
+Total Correct = 
+ 
+ 
+G     33 x 44 = 1452 
+There may be more than one carry in a sum:
+Vertically on the left we get 12.
+Crosswise gives us 24, so we carry 2 to the left
+and mentally get 144.
+Then vertically on the right we get 12 and the 1
+here is carried over to the 144 to make 1452.
+http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp (8 of 12)2/10/2004 8:36:54 PM
+Reset Test
+Reset Test
+
+Vedic Maths Tutorial (interactive)
+6) 32
+    56 x
+  
+ 
+ 
+7) 32
+    54 x
+  
+ 
+ 
+8) 31
+    72 x
+  
+ 
+ 
+9) 44
+    53 x
+  
+ 
+ 
+10) 54
+      64 x
+    
+ 
+ 
+Total Correct = 
+ 
+ 
+Any two numbers, no matter how big, can be
+multiplied in one line by this method. 
+Return to Index 
+Tutorial 6
+Multiplying a number by 11.
+To multiply any 2-figure number by 11 we just put
+the total of the two figures between the 2 figures.
+G     26 x 11 = 286 
+Notice that the outer figures in 286 are the 26
+being multiplied.
+And the middle figure is just 2 and 6 added up.
+G     So 72 x 11 = 792 
+Multiply by 11:
+1) 43 = 
+ 
+ 
+2) 81 = 
+ 
+ 
+3) 15 = 
+ 
+ 
+4) 44 = 
+ 
+ 
+5) 11 = 
+ 
+ 
+Total Correct = 
+ 
+ 
+G     77 x 11 = 847 
+This involves a carry figure because 7 + 7 = 14
+we get 77 x 11 = 7147 = 847.
+Multiply by 11:
+1) 88 = 
+ 
+ 
+http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp (9 of 12)2/10/2004 8:36:54 PM
+Reset Test
+Reset Test
+
+Vedic Maths Tutorial (interactive)
+2) 84 = 
+ 
+ 
+3) 48 = 
+ 
+ 
+4) 73 = 
+ 
+ 
+5) 56 = 
+ 
+ 
+Total Correct = 
+ 
+ 
+G     234 x 11 = 2574 
+We put the 2 and the 4 at the ends.
+We add the first pair 2 + 3 = 5.
+and we add the last pair: 3 + 4 = 7.
+Multiply by 11:
+1) 151 = 
+ 
+ 
+2) 527 = 
+ 
+ 
+3) 333 = 
+ 
+ 
+4) 714 = 
+ 
+ 
+5) 909 = 
+ 
+ 
+Total Correct = 
+ 
+ 
+Return to Index 
+Tutorial 7
+Method for diving by 9.
+G     23 / 9 = 2 remainder 5 
+The first figure of 23 is 2, and this is the answer.
+The remainder is just 2 and 3 added up!
+G     43 / 9 = 4 remainder 7 
+The first figure 4 is the answer
+and 4 + 3 = 7 is the remainder - could it be easier?
+Divide by 9:
+1) 61 = 
+ remainder 
+ 
+ 
+http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp (10 of 12)2/10/2004 8:36:54 PM
+Reset Test
+Reset Test
+
+Vedic Maths Tutorial (interactive)
+2) 33 = 
+ remainder 
+ 
+ 
+3) 44 = 
+ remainder 
+ 
+ 
+4) 53 = 
+ remainder 
+ 
+ 
+5) 80 = 
+ remainder 
+ 
+ 
+Total Correct = 
+ 
+ 
+G     134 / 9 = 14 remainder 8 
+The answer consists of 1,4 and 8.
+1 is just the first figure of 134.
+4 is the total of the first two figures 1+ 3 = 4,
+and 8 is the total of all three figures 1+ 3 + 4 = 8.
+Divide by 9:
+6) 232 = 
+ remainder 
+ 
+7) 151 = 
+ remainder 
+ 
+8) 303 = 
+ remainder 
+ 
+9) 212 = 
+ remainder 
+ 
+10) 2121 = 
+ remainder 
+ 
+Total Correct = 
+ 
+ 
+G     842 / 9 = 812 remainder 14 = 92 remainder 14 
+Actually a remainder of 9 or more is not usually
+permitted because we are trying to find how
+many 9's there are in 842.
+Since the remainder, 14 has one more 9 with 5
+left over the final answer will be 93 remainder 5 
+Divide these by 9:
+1) 771 = 
+ remainder 
+ 
+2) 942 = 
+ remainder 
+ 
+3) 565 = 
+ remainder 
+ 
+4) 555 = 
+ remainder 
+ 
+5) 777 = 
+ remainder 
+ 
+http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp (11 of 12)2/10/2004 8:36:54 PM
+Reset Test
+Reset Test
+
+Vedic Maths Tutorial (interactive)
+6) 2382 = 
+ remainder 
+ 
+7) 7070 = 
+ remainder 
+ 
+Total Correct = 
+ 
+ 
+Return to Index 
+Instructions
+for using the tutorials
+Each tutorial has test sections comprising of several questions each. Next to each question is a box (field) into which you can enter the answer 
+to the question. Select the first question in each test with the mouse to start a test. Enter the answer for the question using the numeric keys on 
+the keyboard. To move to the answer field of the next question in the test, press the 'TAB' key. Moving to the next question, will cause the 
+answer you entered to be checked, the following will be displayed depending on how you answered the question :-
+Correct
+Wrong
+Answer has more than one part (such as fractions and those answers with remainders). Answering remaining parts of the 
+question, will determine whether you answered the question correctly or not.
+Some browsers will update the answer on 'RETURN' being pressed, others do not. Any problems stick to the 'TAB' key. Pressing 'SHIFT 
+TAB' will move the cursor back to the answer field for the previous question.
+The 
+ button will clear all answers from the test and set the count of correct answers back to zero.
+N.B. JavaScript is used to obtain the interactive nature of these tutorials. If you cannot get this to work then try the text/picture based version of 
+this tutorial.
+Return to Index 
+http://www.vedicmaths.org/Group%20Files/tutorial/tutorial.asp (12 of 12)2/10/2004 8:36:54 PM
+Reset Test
+Reset Test

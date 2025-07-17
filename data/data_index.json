@@ -1,0 +1,230 @@
+[
+  {
+    "title": "15Khadgamalasfinal",
+    "filename": "chunks/15khadgamalasfinal.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "18 Maha Puranas In English",
+    "filename": "chunks/18-maha-puranas-in-english.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Ayurvedic_Treatment",
+    "filename": "chunks/ayurvedic_treatment.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Body And Health In Ayurveda",
+    "filename": "chunks/body-and-health-in ayurveda.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Brihat Parashara Hora Sastra",
+    "filename": "chunks/brihat-parashara-hora-sastra.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Chikitsa_Samgraham",
+    "filename": "chunks/chikitsa_samgraham.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Devi Khadgamala Stotram",
+    "filename": "chunks/devi-khadgamala-stotram.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Four Vedas English",
+    "filename": "chunks/four-vedas-english.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Gitapress_Gita_Roman",
+    "filename": "chunks/Gitapress_Gita_Roman.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Hand Book Of Nature Cure",
+    "filename": "chunks/hand-book-of-nature-cure.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Jyotisha Siddhanta Sara",
+    "filename": "chunks/jyotisha-siddhanta-sara.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Kathopanishad",
+    "filename": "chunks/kathopanishad.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Lessonplan_The Bhagavad Gita",
+    "filename": "chunks/lessonplan_the-bhagavad-gita.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Lessons On Vedic Astrology 01",
+    "filename": "chunks/lessons-on-vedic-astrology-01.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Mahabharata By_Krsna_Dharma_Dasa",
+    "filename": "chunks/Mahabharata-by_Krsna_Dharma_dasa.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Mahanirvana Tantra",
+    "filename": "chunks/mahanirvana-tantra.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Manu_Smriti_Sanskrit_With_English",
+    "filename": "chunks/manu_smriti_sanskrit_with_english.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Narada Purana",
+    "filename": "chunks/narada-purana.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Ramanuja_Gita_Bhashya",
+    "filename": "chunks/ramanuja_gita_bhashya.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Ramayana Krishna Dharma",
+    "filename": "chunks/ramayana-krishna-dharma.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Shiva Purana English",
+    "filename": "chunks/shiva-purana-english.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Sivananda Practice Of Ayurveda",
+    "filename": "chunks/sivananda-practice-of-ayurveda.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Sri Isopanisad Original 1969 Edition",
+    "filename": "chunks/Sri-Isopanisad-original-1969-edition.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "The Ayurveda Encyclopedia",
+    "filename": "chunks/the-ayurveda-encyclopedia.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Tulasyupanisat",
+    "filename": "chunks/tulasyupanisat.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Vedic Mathematics Methods",
+    "filename": "chunks/vedic-mathematics-methods.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Vedic Maths Course",
+    "filename": "chunks/vedic-maths-course.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Vedic Maths Shankaracharya",
+    "filename": "chunks/vedic-maths-shankaracharya.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Vedic Maths Tutorial",
+    "filename": "chunks/vedic-maths-tutorial.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Vidura Niti",
+    "filename": "chunks/vidura-niti.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Vijnana Bhairava Tantra",
+    "filename": "chunks/vijnana-bhairava-tantra.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Yoga For Children",
+    "filename": "chunks/yoga-for-children.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Yogakundaliniupanishad",
+    "filename": "chunks/YogaKundaliniUpanishad.jsonl",
+    "type": "book",
+    "subject": "Unknown"
+  },
+  {
+    "title": "Gita Verses",
+    "filename": "gita_verses.json",
+    "type": "core_json",
+    "subject": "Gita"
+  },
+  {
+    "title": "Ayurveda Principles",
+    "filename": "ayurveda_principles.json",
+    "type": "core_json",
+    "subject": "Ayurveda"
+  },
+  {
+    "title": "Chanakya Niti",
+    "filename": "chanakya_niti.json",
+    "type": "core_json",
+    "subject": "Politics"
+  },
+  {
+    "title": "Upanishads Quotes",
+    "filename": "upanishads_quotes.json",
+    "type": "core_json",
+    "subject": "Philosophy"
+  },
+  {
+    "title": "Vedic Stories",
+    "filename": "vedic_stories.json",
+    "type": "core_json",
+    "subject": "Stories"
+  }
+]

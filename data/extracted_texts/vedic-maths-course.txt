@@ -1,0 +1,876 @@
+To DAY 1 
+. 
+Day 1 - Intro + Calculation made easy with 5 & 11. 
+Day 2 - Calculation made easy with 9. 
+Day 3 - Add & Subtract Method to calculate faster. 
+Day 4 - Advanced Add & Subtract Method. 
+Day 5 - It is always fun to recollect, so lets have some test to make you do 
+not forget the basics. 
+Day 6 - Basic Multiplication but the faster way. 
+Day 7 - Learn how to square any number in few seconds. We will go 
+through multiple method in this. 
+Day 8 - Its time for Cubes. 
+Day 9 - Introduction to division using Vedic Maths. 
+Day 10 - A Final test to evaluate where you stand. 
+So lets get started. I am not going into the details of vedas ( I am sure you 
+are not interested in them either). We are going to begin with my favorite 
+number 5 and how things get easy with it. 
+Fun with Number 5 
+Rules: This is normally used for multiplication and in this case both the units 
+in digit i.e. the last numbers are 5. Also, the beginning numbers are same. 
+You will understand this as you see some examples. 
+25 x 25 = 6 | 25 (This one's easy, right?) 
+Explanation: As you see both the ending numbers are 5 and also they are 
+beginning with 2. So we have satisfied both the rules. Now how do we get 
+625. The first step is that you write down 25 on the right hand side. Why we 
+do so? Do not think about that. Just write 25 on the right hand side. Then 
+we take the number on the left hand side (of 25), in this case 2. And we 
+multiply it with the next higher digit number i.e. 3. Therefore we get the 
+answer 2 x 3 = 6, which we write down on the right hand side. So we finally 
+get the answer as 625. 
+45 x 45 = 20 | 25 
+Explanation: As this one satisfies the rule too. Both the left numbers are 
+same - 4, and the ending numbers are 5. So without thinking the first thing 
+we do is write 25 on the right hand side. Then we take the left hand number 
+4 and multiply it with 5, hence we get 4 x 5 = 20 (the left side of our 
+answer).
+
+135 x 135 = 182 | 25 (slightly tough) 
+Explanation: Both the rule has been satisfied. We write down 25 on the right 
+hand side. We multiple 13 with the next higher number and get 13 x 14 = 
+182. And there we have our answer 18225. Easy right? 
+Slight Modification to the Number 5 method 
+Rule: The ending number should add up to 10. Infact in the above case too 
+the ending number 5 + 5 added upto 10. And the left hand side number 
+should be same. This is very similar, so lets look at some example. 
+23 x 27 = 6 | 21 (I am sure that,not everyone finds this simple). 
+Explanation: Ending numbers 3 + 7 add upto 10. So the first rule is 
+satisfied. And both the number on left hand side are same i.e. 2. First thing 
+you do is, you multiply 3 x 7 = 21. And then like earlier you multiply 2 with 
+the next higher digit number i.e. 3. And we get 2 x 3 = 6 on the left hand 
+side. Final answer is 621. 
+62 x 68 = 42 | 16 
+Explanation: Both the rule have been satisfied. We multiply 8 x 2 as the add 
+upto 10 and we get the left hand side of the answer 16. Then we multiply 6 
+with the next higher digit number 7 and get 6 x 7 = 42 
+Fun with number 11 
+Now we try the tricks which can make calculation by 11 easy. We 
+will also learn how to multiply by 22, 33, 44, 55, 66, etc. As it is 
+nothing but 11 x 2, 11 x 3, 11 x 4, 11 x 5, 11 x 6 respectively.  
+Steps involved:  
+1. To multiply a number by 11 put a 0 in the beginning and at the 
+end of the number.  
+2. Starting from the digit’s place add two consecutive digit. 
+Remember to go from right to left.  
+Examples 
+342 x 11 = 03420 = 0+3 /4 + 3/2 + 4/0 + 2 = 3762 
+Explanation: We added 0 at the end and the beginning of 342 and got 
+03420. Now, as you see we broke the number by taking each consecutive 
+number and added them. The first part is 0 + 2 = 2, the first number of our 
+answer, then we took 2+4 and got 6, second number of our answer and so 
+on.
+
+4932 x 11 = 049320 = 0 + 4/4 + 9/3 +9/3 + 2/0+2 = 54252 
+Explanation: In this case when we add 3 + 9 we write down 2 and carry 
+forward 1, we again get 4 + 9 + 1 we write down 4 and carry forward 1. We 
+add 4 + 1 and get 5 
+In the above case if we need to multiply by 22. Then we first multiply by 2 
+and then by 11. 
+312 x 22 = 624 (312 x2) x 11 = 06240 = 0 +6/6 + 2/4 + 2/0 + 4 = 
+6864 
+Explanation: Here we are trying to multiply with 22. Hence we first multiply 
+the main number with 312 with 2 and get 312 x 2 = 624. And then multiply 
+the same number with 22. Rest of the steps remain the same. 
+312 x 22 = 03120 x 11 x 2 = (0+3 / 3 + 1 /2 + 1 /0 + 2) x 2 = 3432 
+x 2 = 6864 
+Explanation: This is the exact same sum as above. In this case you multiply 
+the end answer by 2 and get the exact same answer. 
+Similarly we can calculate any number into any multiple of 11. Even 
+11 x 11. We just repeat the process twice. 
+Depending on your age and your ease with numbers you might have found 
+this lesson simple or slightly tough. But remember one thing, these kinds of 
+calculation has to be done mentally. So get to some practice today as in 4 
+days you have a test. I have personally found that once you practice this 
+even for 10 mins in a week, you will get used to this. 
+I hope this lesson was fun and you enjoyed it as much as I enjoyed writing it 
+down for you! 
+See you tomorrow. 
+Rahul Makhija 
+999999999 = 948224242 | 051775757 
+Explanation: Wow! I can beat the calculator. Most of the calculator cannot perform 
+calculation more than 12 digits and I doubt even your mobile phones can do that. Here 
+is how its done, we subtract 1 from 948224243 and get 948224242 . Then we subtract 9 
+- 9 get 0, then 9 - 4 = 5, then 9 - 8 and so on. I am sure by now you get the idea. 
+But now here is the question what if the number of 9's are more than the number which 
+we going to multiply, for example,  
+273 x 99999 ( we cannot do this as of now)
+
+Part B (Original number is less then the number of 9's, for example 234 x 99999) 
+Rules: Similar to above method, but just imagine 0's in front of the original number. But 
+make sure the number of 9's are more and not less or equal.) 
+383 x 9999 will become 0383 x 9999 = 0382 | 9617 
+Explanation:It is simple, we imagine the number to be 0383. Subtract one from it and 
+get 0382. Then as usual we calculate 9 - 0 = 9, then 9 - 3 = 6 and so one. 
+ 
+ 
+ 
+ 
+ 
+ 
+Welcome to Day 2 
+I hope you enjoyed the last lesson and understand how learning vedic math's can make 
+calculations fun and easy. Today we will start learning to have fun calculation with 
+number 9. I still remember the trick taught to me by my school professor. While doing 
+the tables for 9, the ten's digit or left part increased by 1 and units digit or right part 
+decreased by 1. 
+For example, 
+9 x 2 = 18 
+9 x 3 = 27 
+9 x 4 = 36 
+... 
+See there is a simple pattern. But in fact it is much easier. So lets begin.. 
+Fun with number 9 
+Part A (Original number and the number of 9 is same, for example 234 x 999 but 
+we cannot use this method for 234 x 9999 or 234 x 99) 
+Rules: As usual there is a left hand part of the answer and the right hand part of the 
+answer. When multiplying by 9 we subtract one from the original number and write it 
+down on the left hand side. Then we subtract each number on the left hand side from 9 
+and write it down on the right hand site (this will become clearer with the examples that 
+follow).
+
+234 x 999 = 233 | 766 
+Explanation: We subtract one from 234 and write it down on the left hand side i.e 234 - 
+1 = 233. Then we take each individual number and subtract that number from 9 in the 
+order - left to right. So we subtract 9 - 2 = 7, then we subtract 9 - 3 = 6 and again 9 - 3 = 
+6. Hence, we get the right part of our answer i.e 766 
+Common Mistake: As you see from the above example we subtract 9 from each 
+individual number, but we did so from the left hand side of our answer and not the 
+original number. In simple words, we should subtract individually from 233 and not from 
+234. This is a common mistake I have found and would advice you to remember this 
+crucial point.  
+948224243 x 999999999 = 948224242 | 051775757 
+Explanation: Wow! I can beat the calculator. Most of the calculator cannot perform 
+calculation more than 12 digits and I doubt even your mobile phones can do that. Here 
+is how its done, we subtract 1 from 948224243 and get 948224242 . Then we subtract 9 
+- 9 get 0, then 9 - 4 = 5, then 9 - 8 and so on. I am sure by now you get the idea. 
+But now here is the question what if the number of 9's are more than the number which 
+we going to multiply, for example,  
+273 x 99999 ( we cannot do this as of now) 
+Part B (Original number is less then the number of 9's, for example 234 x 99999) 
+Rules: Similar to above method, but just imagine 0's in front of the original number. But 
+make sure the number of 9's are more and not less or equal.) 
+383 x 9999 will become 0383 x 9999 = 0382 | 9617 
+Explanation:It is simple, we imagine the number to be 0383. Subtract one from it and 
+get 0382. Then as usual we calculate 9 - 0 = 9, then 9 - 3 = 6 and so one. 
+383 x 999999 will become 000383 x 999999 = 000382 | 999617 
+Explanation: In this case we had 3 extra 9's. So we imagine 3 extra 0's in front of 383. 
+Therefore our first case will be 000383 - 1 = 000382, which becomes the left part of the 
+answer. And like before we subtract 9 - 0 and get 9, then again 9 - 0 = 9 and again 9 - 0 
+= 9, then 9 - 3 = 6 and so on. 
+Part C (Original number is more then the number of 9's, for example 234 x 9, this 
+method is tough to undestand so pay close attention to this one) 
+Rules:I will directly goto the example in this case, as the rules will confuse you at this 
+level. 
+14 x 9 = 12 | 6 
+Explanation: From the number 14 we choose 1(the number in the ten's digit), increase it 
+by 1 i.e. 2 or we add + 1. Subtract that from 14 and we get 12. Next we subtract 4 from 
+10 and and get 6 i.e. 10 – 4 = 6. The method is confusing but once a person gets a 
+hang of it, it’s pretty easy.
+
+24 x 9 = 21/6 
+Explanation: From the number 24 we choose 2(ten's digit); increase it by 1 i.e. 3 or we 
+add + 1 (2 + 1). Subtract that from 24 and we get 21 (24 -3). Next we subtract 4 from 10 
+and get 6 i.e. 10 – 4 = 6. 
+47 x 9 = 42/3 
+Steps involved: From the number 47 we choose 4(ten's digit); increase it by 1 i.e. 5. 
+Subtract that from 47 and we get 42 (47 - 5). Next we subtract 7 from 10 and get 3 i.e. 
+10 – 7 = 3. 
+112 x 99 = 110/88 
+Steps involved: From the number 112 we choose 1; increase it by 1 i.e. 2 or we can say 
+we add + 1 (1 + 1). Subtract that from 112 and we get 110 (112 - 2). Next we subtract 
+99 from 12 and then add 1 i.e. 99 – 12 + 1 = 88. 
+112 x 9 = 100/8 
+Steps involved: From the number 112 we choose 11; increase it by 1 i.e. 12 or we can 
+say we add + 1 (11 + 1). Subtract that from 112 and we get 100 (112 - 12). Next we 
+subtract 9 from 2 and then add 1 i.e. 9 – 2 + 1 = 8 
+I hope this lesson was fun and you enjoyed it as much as I enjoyed writing it down for 
+you! 
+See you tomorrow. 
+Welcome To DAY 3 
+So we have learned some simple methods of multiplying with 5 , 11 & 9. But that was all 
+about scratching the surface. We have much more to cover. Today it might be slightly 
+tuff. 
+Add & Subtract Method 
+Rules: This method is based on selecting a proper base and then using the Vedic 
+maths method to calculate. Selecting a proper base is one of the most important things 
+in this method, which makes major calculations very simple. See the example of 
+different bases and make sure you use your wits to choose a proper base while 
+calculation. It works in the following manner. 
+9 x 9 
+9 – 1 [ We assume the base as 10 ] 
+9 – 1
+
+8 /1 
+Steps involved:- 
+We select the base as 10. 
+Then we check the difference for each number as compared to 10. In this case the 
+difference is -1. So we write -1 on the right on side of this number. 
+Then we multiply the right hand side. In this case -1 x -1. So we get 1 as the answer. 
+Then we do cross addition/subtraction. In this case we would subtract -1 from the 
+number 9 and then we get the answer as 8. And the final answer as 81. 
+9 x 8 [ We assume the base as 10 ] 
+9 – 1 
+8 – 2 
+7 /2 
+Steps involved:- 
+We select the base as 10. 
+Then we check the difference for each number as compared to 10. In this case the 
+difference is -1 & -2. So we write -1 & -2 on the right on side of these numbers 
+respectively. 
+Then we multiply the right hand side. In this case -1 x -2. So we get 2 as the answer. 
+Then we do cross addition/subtraction. In this case we would subtract -2 from the 
+number 9 or we subtract -1 from the number 8 and then we get the answer as 7. And 
+the final answer as 72. 
+11 x 12 [ We assume the base as 10 ] 
+11 + 1 
+12 + 2 
+13 /2 
+Steps involved:- 
+We select the base as 10. 
+Then we check the difference for each number as compared to 10. In this case the 
+difference is +1 & +2. So we write +1 & +2 on the right on side of these numbers 
+respectively. 
+Then we multiply the right hand side. In this case +1 x +2. So we get 2 as the answer. 
+Then we do cross addition/subtraction. In this case we would add +2 from the number 
+11 or we add +1 from the number 12 and then we get the answer as 13. And the final 
+answer as 132. 
+It is simple, isn't it? 
+91 x 91 [ We assume the base as 100 ] 
+91 – 9 
+91 – 9 
+82/81 
+Steps involved:- 
+We select the base as 100. 
+Then we check the difference for each number as compared to 100. In this case the 
+difference is -9 & -9. So we write -9 & -9 on the right on side of these numbers
+
+respectively. 
+Then we multiply the right hand side. In this case -9 x -9. So we get 81 as the answer. 
+Then we do cross addition/subtraction. In this case we would subtract -9 from the 
+number 91 and then we get the answer as 82. And the final answer as 8281. 
+Now, we have moved on to higger numbers too. 
+You may practice higher numbers like 120 x 102 or 105 x 108. But remember so far our 
+base has only been 10 & 100. We will move on to slightly complex task tomorrow 
+888 x 998 [ We assume the base as 1000 ] 
+888 – 112 
+998 – 002 
+886/224 
+598 x 998 [ We assume the base as 1000 ] 
+598 – 402 
+998 – 002 
+596/804 
+PRACTICE PRACTICE PRACTICE!!! Day 4 will be tough, so please make sure you 
+know the above steps properly. This the main reason why I have kept this lesson short 
+and sweet. 
+I hope this lesson was fun and you enjoyed it as much as I enjoyed writing it down for you! 
+ 
+Welcome To DAY 4 
+Its time to look at the advanced method for Add/Subtract Method. I hope you are 
+prepared and excited. 
+Add & Subtract Method 
+Rules: This method is based on selecting a proper base and then using the Vedic 
+maths method to calculate. Selecting a proper base is one of the most important things 
+in this method, which makes major calculations very simple. See the example of 
+different bases and make sure you use your wits to choose a proper base while 
+calculation. It works in the following manner. 
+Importance of choosing the RIGHT BASE. 
+ 
+25 x 98 [ We assume the base as 100 ] 
+25 – 75 
+98 – 2 
+24/50
+
+Steps involved:- 
+We select the base as 100. 
+Then we check the difference for each number as compared to 100. In this case the 
+difference is -2 & -75. So we write -2 & -75 on the right on side of these numbers 
+respectively. 
+Then we multiply the right hand side. In this case -2 x -75. So we get 150 as the 
+answer. But since the base is 100 we can only use 2 up to 2 digit and we will carry 
+forward 1 to the left hand side 
+Then we do cross addition/subtraction. In this case we would subtract -2 from the 
+number 25 or we subtract -75 from the number 98 and then we get the answer as 23 
+but due to carry forward we add 1 and the answer turns out to be 24. And the final 
+answer as 2450. 
+So far we have looked at numbers where after addition/subtraction from the base, 
+both the numbers were either positive or negative. Now lets consider the other 
+way round. 
+ 
+12 x 8 [ We assume the base as 10 ] 
+12 + 2 
+  8 – 2 
+10/-4 = 96 
+Steps involved:- 
+We select the base as 10. 
+Then we check the difference for each number as compared to 10. In this case the 
+difference is +2 & -2. So we write +2 & -2 on the right on side of these numbers 
+respectively. 
+Then we multiply the right hand side. In this case +2 x -2. So we get -4 as the answer. 
+Then we do cross addition/subtraction. In this case we would subtract -2 from the 
+number 12 or we add +2 from the number 8 and then we get the answer as 10. 
+However since the we have – 4 on the right hand side we subtract it from the base and -
+1 from the left hand side. 
+And we get the answer 96 
+It is slightly confusing but you will get the hang of it pretty soon. 
+108 x 97 [ We assume the base as 100 ] 
+108 + 8 
+  97 – 3 
+105/-24 = 104/76 
+Steps involved:- 
+We select the base as 100. 
+Then we check the difference for each number as compared to 100. In this case the 
+difference is +8 & -3. So we write +8 & -3 on the right on side of these numbers 
+respectively. 
+Then we do cross addition/subtraction. In this case we would subtract -3 from the number 108 
+or we add +8 from the number 97 and then we get the answer as 105. 
+However since  we have – 24 on the right hand side we subtract it from the base and -1 from
+
+the left hand side. 
+And we get the answer as 10476 
+We have also been using the base such as 10, 100 & 1000. Now, lets try some 
+different base. Play close attention to the difference as it will help you master this 
+method. 
+49 x 49 [ We assume the base as 50 ] 
+49 – 1 
+49 – 1 
+48/01 
+24/01 
+Steps involved:- 
+We select the base as 50. 
+Then we check the difference for each number as compared to 50. In this case the 
+difference is -1 & -1. So we write -1 & -1 on the right on side of these numbers 
+respectively. 
+Then we multiply the right hand side. In this case -1 x -1. So we get 1 as the answer. 
+Then we do cross addition/subtraction. In this case we would subtract -1 from the 
+number 49 or we subtract -1 from the number 49 (same thing in this case) and then we 
+get the answer as 48. 
+But since the base is 50 which is nothing but 100/2. So we divide 48 by 2 
+And we get the answer 2401. 
+Similar Example: 
+46 x 46 [ We assume the base as 50 i.e 100/2 ] 
+46 – 4 
+46 – 4 
+42/16 
+21/16 
+23 x 23 (BASE AS 20 i.e. 10 x 2) 
+23 + 3 
+23 + 3 
+26/9 
+52/9 
+Steps involved:- 
+We select the base as 20. 
+Then we check the difference for each number as compared to 20. In this case the 
+difference is +3 & +3. So we write +3 & +3 on the right on side of these numbers 
+respectively. 
+Then we multiply the right hand side. In this case +3 x +3. So we get 9 as the answer. 
+NOTE: We write 9 as the answer and not 09 as the answer because here the base 
+is 10 x 2. That means the underlying base still remains 10. And that’s why we just 
+write one number on the right hand side i.e. 9 
+Then we do cross addition/subtraction. In this case we would subtract +3 from the
+
+number 23 or we add +3 from the number 23 (same thing in this case) and then we get 
+the answer as 26. 
+But since the base is 20 which is nothing but 10 x 2. So we multiply the base 26  x 2. 
+And we get the answer 529. 
+ 
+23 x 23 (BASE AS 20 i.e. 100/5) [ Notice the above sum has the same numbers] 
+23 + 3 
+23 + 3 
+26/09 
+5.20/09 
+5/29 
+Steps involved:- 
+We select the base as 20. 
+Then we check the difference for each number as compared to 20. In this case the 
+difference is +3 & +3. So we write +3 & +3 on the right on side of these numbers 
+respectively. 
+Then we multiply the right hand side. In this case +3 x +3. So we get 9 as the answer. 
+NOTE: We write the base as 09 as our basic base or main base is 100/5. The 
+whole idea is if the basic base or main base is a multiple or division of 100 then 
+we will have 2 digits on the left hand side. And when the basic base of main base 
+is a multiple of 10 then we take only one digit on the left hand side, rest we carry 
+forward to the left hand side after doing the division. 
+Then we do cross addition/subtraction. In this case we would subtract +3 from the 
+number 23 or we add +3 from the number 23 (same thing in this case) and then we get 
+the answer as 26. 
+But since the base is 20 which is nothing but 100/5. So we divide 26 by 5 and get the 
+answer 5.20 
+Now whenever we get answer in decimal form after division we transfer it to the right 
+hand side by adding it. Therefore we add 20 to right hand side and get the answer as 29 
+And we get the final answer as 529. 
+GOLDEN RULES FOR ADD SUBTRACT METHOD. 
+ 
+Choose the base according to your common sense so that the calculation 
+becomes easy. 
+If the base is 100 there will be 2 digits on the right hand side, if the base is 10 
+there will be 1 digit on the right hand side, if the base is 1000 there will be 3 digits 
+on the right hand side and so on. And the extra digit you carry over to the left 
+hand side.  
+ 
+Remember to always divide the left hand side or multiply it first, if required. And 
+then minus right hand side (if negative) or carry forward from left hand side (if 
+positive).
+
+If your answer is something like 24/-26 (with your base being 10). You carry 
+forward -2 to the left hand side. Then your answer will be 22/-6. And then you 
+subtract. This will give you the answer 21/4. However, you can do it directly too, 
+since you know by subtraction of 24 by 3 will give you 21 and you will be able to 
+carry 30 to the left hand side and then you will be able to get your answer easily. 
+i.e. 30 – 26 = 4. 
+ 
+Welcome to Day 7 
+We have already covered a lot and today seems to be one of my favourite 
+topics and I am sure you are going to enjoy all the neat tricks I am going to 
+teach. Have fun! 
+Let’s learn square using the add and subtract method. 
+                         
+In this method we again choose a base. This method is nothing but 
+the above method in a more simplified manner for calculating 
+squares. 
+             
+7 x 7 = (7-3)/3 x 3 = 4/9 
+By subtract and add method. Taking the base 10 
+            7 – 3 
+          7 – 3 
+          (7-3)/ (-3 x -3) = 49 
+ 
+Look at the following examples 
+12 x 12 = (12 + 2)/2 x 2 = 14/ 4 
+14 x 14 = (14 + 4)/4 x 4 = 18/16 = 19/6 (remember the base is 10) 
+91 x 91 = (91 – 9)/9 x 9 = 82/81 
+95 x 95 = (95 – 5)/5 x 5 = 90/25 
+108 x 108 = (108 + 8)/8 x 8 =116/64 
+988 x 988 = (988 – 12)/12 x 12 = 976/144 (The base is 1000. Therefore we 
+do not need to carry 1 of 144 on the left hand side. 
+45 x 45 = (45 – 5)/5 x 5= 40/25 = 20/25 (The base is taken as 50 (100/2). 
+Therefore divide by 40 by 2)
+
+45 x 45 = (45 – 5)/5 x 5 = 40/25 = 200/25 = 202/5 (The base is taken as 
+50 (10 x 5). Therefore we multiply 40 x 5 = 200 and the carry forward 2 
+from left hand side to right hand side as the base is 10) 
+Squares using the formula:  
+(a + b) (a + b) = a2 + 2ab + b2 
+(a - b) (a - b) = a2 - 2ab + b2 
+This is simple enough to understand.  
+97 x 97 = (100 -3)(100-3) = 10000 – 600 + 9 
+108 x 108 = (100 + 8) (100 + 8) = 10000 + 1600 + 64 
+29 x 29 = (30 – 1) (30 – 1) = 900 -60 + 1 = 841 
+49 x 49 = (50 -1) (50 – 1) = 2500 – 100 + 1 = 2401 
+78 x 78 = (80 – 2) (80 – 2) = 6400 – 320 + 4 = 6084 
+Let’s try a different method to find squares now: 
+Method: 
+1. Square the units digit.  
+2. Tens digit x units digit x 2  
+3. Square of tens digit  
+Examples 
+42 x 42 = 16/16/4 = 1764 (we carry forward 1 from the centre calculation 
+to the left hand side) 
+Method: 
+1. Square the units digit. We get 4  
+2. Tens digit x units digit x 2. We get 16  
+3. Square of tens digit is 16.  
+23 x 23 = 4/12/9 = 5/2/9 (we carry forward 1 from the centre calculation to 
+the left hand side) 
+Method: 
+1. Square the units digit - 9
+
+2. Tens digit x units digit x 2 - 12  
+3. Square of tens digit - 4  
+  
+62 x 62 = 36/24/4=38/4/4 
+Method: 
+1. Square the units digit - 4  
+2. Tens digit x units digit x 2 - 24  
+3. Square of tens digit – 36  
+73 x 73 = 49/42/9 =53/2/9 
+26 x 26 = 4/24/36= 6/7/6 
+(We carry forward 3 to 24. That makes it 27. We put down 7 and carry 
+forward to the left 2. Thus we get 6 on the extreme left. And our answer is 
+676) 
+34 x 34 = 9 / 24 / 16 = 1156 
+42 x 42 = 16/16/4 = 1764 
+63 x 63 = 36/36/9 = 3969 
+ 
+We learned 3 different ways to find out square. Choose the one you think 
+was  
+Welcome To DAY 6 
+I hope you felt proud yesterday after solving the test and are much more confident right 
+now. Maths is simple, isn't it? 
+Basic Multiplication But Mentally and Faster. 
+The reason we are learning this method is because it is not possible to do all calculation 
+using the add and subtract method. There are many other methods involved but this is 
+simple and easy. 
+Rules: This method simplifies our normal method of multiplication. Just remember the
+
+following diagram when you multiplying 2 digit number with a 2 digit number. 
+ 
+Conventional Calculation 
+    54 
+ x 84 
+  216 
+4320 
+4536 
+By simply Calculation 
+    54 
+ x 84 
+40/52/16 
+40/53/6 
+45/3/6 
+Steps involved: 
+We follow conventional method but we try to skip the extra work to reduce time and 
+effort.  
+First we multiply the right hand side number 4 x 4 (straight line). Write down 16 as our 
+answer 
+Then we multiply 5 x 4 and add it with 8 x 4 i.e. 5 x 4 + 8 x 4 (the cross). We get 52 as 
+our answer. 
+Then we multiply the left hand side number 5 x 8 (straight line). Write down 40 as our 
+answer. 
+Then we carry forward 1 from 16 to the left hand side as we will have only one digit. So 
+we get 53 in the centre. 
+Then we carry forward 5 from 53 to the left hand side as we again will have only one 
+digit in the centre. So we get 3 in centre and on the left hand side we get the answer 45 
+Our final answer is 4536 
+    27 
+ x 35 
+6/31/35 
+6/34/5 
+9/4/5 
+Steps involved: 
+First we multiply the right hand side number 5 x 7 (straight line). Write down 35 as our 
+answer 
+Then we multiply 5 x 2 and add it with 3 x 7 i.e. 5 x 2 + 3 x 7 (the cross). We get 31 as 
+our answer.
+
+Then we multiply the left hand side number 2 x 3 (straight line). Write down 6 as our 
+answer. 
+Then we carry forward 3 from 35 to the left hand side as we will have only one digit. So 
+we get 34 in the centre. 
+Then we carry forward 3 from 34 to the left hand side as we again will have only one 
+digit in the centre. So we get 4 in centre and on the left hand side we get the answer 9. 
+Our final answer is 945. 
+    67 
+ x  4 
+This is 
+    67 
+ x 04 
+0/24/28 
+0/26/8 
+2/6/8 
+Steps involved: 
+First we multiply the right hand side number 7 x 4 (straight line). Write down 28 as our 
+answer 
+Then we multiply 4 x 6 and add it with 0 x 7 i.e. 5 x 2 + 0 x 7 (the cross). We get 24 as 
+our answer. 
+Then we multiply the left hand side number 6 x 0 (straight line). Write down 0 as our 
+answer. 
+Then we carry forward 2 from 28 to the left hand side as we will have only one digit. So 
+we get 26 in the centre. 
+Then we carry forward 2 from 26 to the left hand side as we again will have only one 
+digit in the centre. So we get 6 in centre and on the left hand side we get the answer 2. 
+Our final answer is 268. 
+Now, if we want to multiply a 3 digit number with a 3 digit number we keep in 
+mind the following diagram. 
+ 
+ 
+ 
+   342 
+x 425 
+12/22/31/24/10 
+12/22/31/25/0 
+12/22/33/5/0
+
+12/25/3/5/0 
+14/5/3/5/0 
+Steps involved: 
+1. First we multiply the right hand side number 2 x 5 (straight line). Write down 10 
+as our answer  
+2. Then we multiply 4 x 5 and add it with 2 x 2 i.e. 4 x 5 + 2 x 2 (the first cross). We 
+get 24 as our answer.  
+3. Next we multiple 3 x 5 add it to 4 x 2 and again add that to 4 x 2 i.e. 3 x 5 + 4 x 2 
++ 4 x 2 (the star). And we get the answer 31.  
+4. Then we multiply 3 x 2 and add it with 4 x 4 i.e. 3 x 2 + 4 x 4 (the second cross). 
+We get 22 as our answer.  
+5. Then we multiply the left hand side number 3 x 4 (straight line). Write down 12 as 
+our answer.  
+6. Then we carry forward 1 from 10 to the left hand side as we will have only one 
+digit.  
+-     We keep carrying on each number to the left hand side and we leave one number in 
+each case and hence we get the number 14/5/3/5/0 
+1. Our final answer is 145350.  
+   862 
+x  35 
+we can add a 0 to 35 and then solve as following 
+   862 
+x 035 
+0/24/58/36/10 
+0/24/58/37/0 
+0/24/61/7/0 
+0/30/1/7/0 
+3/0/1/7/0 
+Steps involved: 
+1. First we multiply the right hand side number 2 x 5 (straight line). Write down 10 
+as our answer  
+2. Then we multiply 6 x 5 and add it with 3 x 2 i.e. 6 x 5 + 3 x 2 (the first cross). We 
+get 36 as our answer.  
+3. Next we multiple 8 x 5 add it to 0 x 2 and again add that to 6 x 3 i.e. 8 x 5 + 0 x 2 
++ 6 x 3 (the star). And we get the answer 58.  
+4. Then we multiply 3 x 8 and add it with 0 x 6 i.e. 3 x 8 + 0 x 6 (the second cross). 
+We get 24 as our answer.
+
+5. Then we multiply the left hand side number 8 x 0 (straight line). Write down 0 as 
+our answer.  
+6. Then we carry forward 1 from 10 to the left hand side as we will have only one 
+digit.  
+-     We keep carrying on each number to the left hand side and we leave one number in 
+each case and hence we get the number 3/0/1/7/0 
+Our final answer is 30170.  
+Welcome to Day 7 
+We have already covered a lot and today seems to be one of my favourite 
+topics and I am sure you are going to enjoy all the neat tricks I am going to 
+teach. Have fun! 
+Let’s learn square using the add and subtract method. 
+                         
+In this method we again choose a base. This method is nothing but 
+the above method in a more simplified manner for calculating 
+squares. 
+             
+7 x 7 = (7-3)/3 x 3 = 4/9 
+By subtract and add method. Taking the base 10 
+            7 – 3 
+          7 – 3 
+          (7-3)/ (-3 x -3) = 49 
+ 
+Look at the following examples 
+12 x 12 = (12 + 2)/2 x 2 = 14/ 4 
+14 x 14 = (14 + 4)/4 x 4 = 18/16 = 19/6 (remember the base is 10) 
+91 x 91 = (91 – 9)/9 x 9 = 82/81 
+95 x 95 = (95 – 5)/5 x 5 = 90/25 
+108 x 108 = (108 + 8)/8 x 8 =116/64 
+988 x 988 = (988 – 12)/12 x 12 = 976/144 (The base is 1000. Therefore we 
+do not need to carry 1 of 144 on the left hand side.
+
+45 x 45 = (45 – 5)/5 x 5= 40/25 = 20/25 (The base is taken as 50 (100/2). 
+Therefore divide by 40 by 2) 
+45 x 45 = (45 – 5)/5 x 5 = 40/25 = 200/25 = 202/5 (The base is taken as 
+50 (10 x 5). Therefore we multiply 40 x 5 = 200 and the carry forward 2 
+from left hand side to right hand side as the base is 10) 
+Squares using the formula:  
+(a + b) (a + b) = a2 + 2ab + b2 
+(a - b) (a - b) = a2 - 2ab + b2 
+This is simple enough to understand.  
+97 x 97 = (100 -3)(100-3) = 10000 – 600 + 9 
+108 x 108 = (100 + 8) (100 + 8) = 10000 + 1600 + 64 
+29 x 29 = (30 – 1) (30 – 1) = 900 -60 + 1 = 841 
+49 x 49 = (50 -1) (50 – 1) = 2500 – 100 + 1 = 2401 
+78 x 78 = (80 – 2) (80 – 2) = 6400 – 320 + 4 = 6084 
+Let’s try a different method to find squares now: 
+Method: 
+1. Square the units digit.  
+2. Tens digit x units digit x 2  
+3. Square of tens digit  
+Examples 
+42 x 42 = 16/16/4 = 1764 (we carry forward 1 from the centre calculation 
+to the left hand side) 
+Method: 
+1. Square the units digit. We get 4  
+2. Tens digit x units digit x 2. We get 16  
+3. Square of tens digit is 16.  
+23 x 23 = 4/12/9 = 5/2/9 (we carry forward 1 from the centre calculation to 
+the left hand side)
+
+Method: 
+1. Square the units digit - 9  
+2. Tens digit x units digit x 2 - 12  
+3. Square of tens digit - 4  
+  
+62 x 62 = 36/24/4=38/4/4 
+Method: 
+1. Square the units digit - 4  
+2. Tens digit x units digit x 2 - 24  
+3. Square of tens digit – 36  
+73 x 73 = 49/42/9 =53/2/9 
+26 x 26 = 4/24/36= 6/7/6 
+(We carry forward 3 to 24. That makes it 27. We put down 7 and carry 
+forward to the left 2. Thus we get 6 on the extreme left. And our answer is 
+676) 
+34 x 34 = 9 / 24 / 16 = 1156 
+42 x 42 = 16/16/4 = 1764 
+63 x 63 = 36/36/9 = 3969 
+ 
+Welcome to Day 8 
+This topic may be tricky so give close attention to this one. 
+We again follow the base system - Not exactly, but depending on the base 
+calculation will differ. 
+Consider base 10 
+Cube for 13 
+13 = (13 + 3 x 2)/(9 x 3)/3 x 3 x 3 
+     = 19/27/27 (But since the base is 10 only one number will remain in 
+each left hand side.
+
+Therefore answer is = 19/29/7 
+                            = 21/9/7. 
+Steps involved 
+1. First we double the excess number from the base 10 and add to the 
+original number i.e. 13- 10 = 3. Then 3 x 2(double the excess) + 13 
+(original number) = 19  
+2. Then we subtract 13 from base, get 3, which we multiply with 9 ( the 
+excess number of the left hand side number minus the base i.e. 19 -10 
+). So basically - excess from original number from 10 x excess from 
+the left number which we got in step 1. We get 3 x 9 = 27.  
+3. Then we take the cube of the unit digit of the original number.  
+4. And doing the required calculation for the base 10, we get the answer 
+2197.  
+Cube for 15 
+15 = (15 + 5 x 2)/(15x5)/5 x 5 x 5 
+     = 25/75/125 
+     =25/87/5 
+     =33/7/5 
+Steps involved 
+1. First we double the excess number from the base 10 and add to the 
+original number i.e. 15- 10 = 5. Then 5 x 2 + 15 (original number) = 
+25  
+2. Then we subtract 15 from base, get 5, which we multiply with 15 ( the 
+excess number of the left hand side number minus the base i.e. 25 -
+10.) So basically, 15 x 5 = 75.  
+3. Then we take the cube of the unit digit of the original number.  
+4. And doing the required calculation for the base 10, we get the answer 
+3375.  
+97 = (97 – 2 x 3)/(-3 x -9)/-3 x -3 x -3 
+     = 91/27/-27 
+     =91/26/73 
+Steps involved 
+1. First we double the excess number from the base 100 and subtract to 
+the original number i.e. 100 - 97 = -3. Then -3 x 2 -3 (original 
+number) = -9
+
+2. Then we subtract 97 from base, get -3, which we multiply with -9 ( the 
+excess number of the left hand side number minus the base i.e. 100 - 
+91.). So basically, -3 x -9 = 27.  
+3. Then we take the cube of 100 – 97.  
+4. And doing the required calculation for the base 100, we get the answer 
+912673.  
+In similar manner, 
+52 = (52 + 2 x 2)/(2 x 6)/08 
+     = 56/12/08 
+     = 14/06/08 
+104 = (100 + 3 x 4)/3 x 4 x 4/4 x 4 x 4 = 112/48/64 
+This may be a tough lesson and with the limitation it is not easy to explain 
+this method only through text. But I am sure once you go through the above 
+steps a few more time, then you will easily get the hang of this method. So 
+good luck and make sure you practice.  
+ 
+Welcome to Day 9 
+Finally we have almost reached the end of the learning session as tomorrow 
+we will be having a final test. Hope you can recollect all the method or you 
+can have a quick glance through all of them. So lets begin with the final 
+lesson. 
+This is just a introduction to this method and advance method for this has 
+not been taught in this lesson. 
+Straight Division  
+4096/ 64 
+4   /  40  9  6 
+ 6  /      4   1 .    
+      6    4     
+Answer is 64 
+Steps involved
+
+1. First separate the divisor into two parts, write the first number down 
+and then above it write the second number. Therefore, we write 6 
+down and then 4 above it.  
+2. Then we manually check the closest number divisible by 6 from 4096, 
+as we would do in our normal division, if we were dividing 4096.  
+3. Therefore, we divide 40 by 6; write down the quotient 6 down, and the 
+remainder below the next number, in this case we write 4 below 9.  
+4. Now, we multiply 4 into our quotient - 6. The 4 we are using is of 64 
+or the one which we wrote above 6.  
+5. This we subtract from 49 i.e. 49 – 24 = 25  
+6. Next we divide 25 by 6 and get our quotient 4, which we write below, 
+and remainder below the next number, in this case 1 below 6.  
+7. We again repeat the procedure. We multiply 4 with the next quotient 
+i.e. 4, therefore 4 x 4 and we subtract it from 16.  
+8. We get the answer 0. Therefore our answer is complete which is 64  
+996/64 
+4 / 9  9  6   
+  6 /    3  5  
+       1  5 .6 
+Answer is 15.6 
+ Or 
+4 / 9  9  6   
+  6 /   3  5  
+       1  5 36 
+Where 15 is quotient and 36 the remainder. 
+Steps involved 
+1. First separate the divisor into two parts, write the first number down 
+and then above it write the second number. Therefore, we write 6 
+down and then 4 above it.  
+2. Then we manually check the closest number divisible by 6 from 996, 
+as we would do in our normal division, if we were dividing 996.  
+3. Therefore, we divide 9 by 6; write down the quotient 1 down, and the 
+remainder below the next number, in this case we write 3 below 9.  
+4. Now, we multiply 4 into our first quotient - 1. The 4 we are using is of 
+64 or the one which we wrote above 6.  
+5. This we subtract from 39 i.e. 39 – 4 = 35  
+6. Next we divide 35 by 6 and get our quotient 5, which we write below, 
+and remainder below the next number, in this case 5 below 6.
+
+7. We again repeat the procedure. We multiply 4 with the next quotient 
+i.e. 5, therefore 4 x 5 and we subtract it from 56.  
+8. We get the answer 36. Now either we can leave it as it, because this 
+will become the remainder. Or we can divide this by 6 to get the 
+answer in decimal form. Therefore our answer is complete which is 
+15.6  
+5100 / 25 
+ 5 / 3  1    0  0 
+  2/    1    2  2 
+      1  2   4 . 0 
+Therefore we get the answer as 124 
+Steps involved 
+1. We first divide 3 by 2, get quotient 1, which we write down and carry 
+over the remainder 1 below the next number of 3100, which would be 
+1  
+2. Now we subtract 11 from 5 x 1. Get 6 which we should divide by 2 and 
+write down the quotient as 3.  
+3. But we don’t do this. Reason being, if we take quotient 3 our 
+remainder will be 0 and we won’t be able to continue with the 
+calculation.  
+4. Therefore, when ever writing down the quotient, we should 
+check the next calculation should not give us a answer 0 or 
+negative.  
+5. Hence, we write down 2 us our quotient and carry forward 2.  
+6. Now we again repeat the procedure, 20 - 5 x 2 (quotient) = 10  
+7. 10 we divide by 2, since again our next number should not be 00, we 
+take the quotient as 4 and write the remainder as 2  
+8. And 20 – 5 x 4 = 0  
+9. Therefore our answer is 124.  
+Remember the last number is always the remainder. If the last 
+number is 0 that means it is perfectly divisible. 
+80742 / 53 
+    3 / 8  0  7  4  2 
+    5 /    3  2  2  3   
+         1  5 2  3  23 
+Therefore our answer is 1523 with the remainder 23 
+Steps involved
+
+We first divide 8 by 5 get the quotient 1, which we write down and 
+carry the remainder below 0  
+o Next we subtract 3 (3 x 1) from 30 = 27  
+o Divide 27 by 5, write down the quotient 5 below and the 
+remainder 2 below 7.  
+o 27 – 15 (3 x 5) = 12  
+o We divide 12 by 5, write down the quotient 2 and carry forward 
+the remainder 2 below 4.  
+o 24 – 6(3 x 2) = 18  
+o 18 divide by 5, gives the quotient 3 and the remainder 3.  
+o 32 – 9 (3 x 3) = 23, which becomes our remainder.  
+ 
+I hope this lesson

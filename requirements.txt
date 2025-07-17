@@ -1,0 +1,14 @@
+streamlit
+openai
+langchain
+chromadb
+pypdf
+tiktoken
+sentence-transformers
+faiss-cpu
+python-dotenv
+sentence-transformers
+chromadb
+nltk
+torch
+transformers
